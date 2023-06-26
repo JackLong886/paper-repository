@@ -11,7 +11,7 @@
 - paper3
 
 ## cloud removal
-- __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images__[[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/)
+- __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images.__[[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/)
 - paper2
 - paper3
 
