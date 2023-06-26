@@ -6,12 +6,12 @@
 4. paper3
 
 ## pansharpen
-- __How to pan-sharpen images using the Gram-Schmidt pan-sharpen method - A recipe.__  [[paper]](https://www.researchgate.net/publication/274676820_How_to_pan-sharpen_images_using_the_Gram-Schmidt_pan-sharpen_method_-_A_recipe)
+- __How to pan-sharpen images using the Gram-Schmidt pan-sharpen method - A recipe.__  [[paper]](https://www.researchgate.net/publication/274676820_How_to_pan-sharpen_images_using_the_Gram-Schmidt_pan-sharpen_method_-_A_recipe). :smiling_face_with_tear:GS全色锐化，专利已过期:smiling_face_with_tear:
 - paper2
 - paper3
 
 ## style transfer
-- __Neural Preset for Color Style Transfer.__ [[paper]](https://arxiv.org/abs/2303.13511)[[hub]](https://github.com/ZHKKKe/NeuralPreset). :sweat_smile:使用颜色风格迁移实现滤镜，自监督训练策略，分离内容和颜色特征，建立颜色映射表，优化精度评估指标，:sweat_smile:
+- __Neural Preset for Color Style Transfer.__ [[paper]](https://arxiv.org/abs/2303.13511)[[hub]](https://github.com/ZHKKKe/NeuralPreset). :sweat_smile:使用颜色风格迁移实现滤镜，自监督训练策略，分离内容和颜色特征，建立颜色映射表，优化精度评估指标:sweat_smile:
 - paper2
 - paper3
 
