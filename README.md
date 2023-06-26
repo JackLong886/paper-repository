@@ -10,6 +10,11 @@
 - paper2
 - paper3
 
+## style transfer
+- __Neural Preset for Color Style Transfer.__ [[paper]](https://arxiv.org/abs/2303.13511)[[hub]](https://github.com/ZHKKKe/NeuralPreset). :sweat_smile:使用颜色风格迁移实现滤镜，自监督训练策略，分离内容和颜色特征，建立颜色映射表，优化精度评估指标，:sweat_smile:
+- paper2
+- paper3
+
 ## cloud removal
 - __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images.__  [[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/).:cat:解决云去除后光谱失真的问题:cat:
 - paper2
