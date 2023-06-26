@@ -6,7 +6,7 @@
 3. paper3
 
 ## pansharpen
-- paper1
+- __How to pan-sharpen images using the Gram-Schmidt pan-sharpen method - A recipe.__  [[paper]](https://www.researchgate.net/publication/274676820_How_to_pan-sharpen_images_using_the_Gram-Schmidt_pan-sharpen_method_-_A_recipe)
 - paper2
 - paper3
 
