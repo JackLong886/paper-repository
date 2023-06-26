@@ -1,4 +1,4 @@
-# bookmark
+# paper repository
 :+1: This repository looks great - it's ready to merge! :shipit:
 ## image match
 1. __Image Matching across Wide Baselines: From Paper to Practice.__ [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark)
