@@ -1,7 +1,7 @@
 # paper repository
 :+1: This repository looks great - it's ready to merge! :shipit:
 ## image match
-1. __Image Matching across Wide Baselines: From Paper to Practice.__  [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark). :sweat_smile:消融实验，传统和学习方法、参数设置等:sweat_smile:
+1. __Image Matching across Wide Baselines: From Paper to Practice.__  [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark).:sweat_smile:消融实验，传统和学习方法、参数设置等:sweat_smile:
 3. __Image Matching Challenge 2023.__  [[link]](https://www.kaggle.com/code/qi7axu/imc-2023-submission-example)
 4. paper3
 
@@ -11,7 +11,7 @@
 - paper3
 
 ## cloud removal
-- __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images.__  [[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/)
+- __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images.__  [[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/).:cat:解决云去除后光谱失真的问题:cat:
 - paper2
 - paper3
 
