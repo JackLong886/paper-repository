@@ -11,7 +11,7 @@
 - paper3
 
 ## style transfer
-- __Neural Preset for Color Style Transfer.__ [[paper]](https://arxiv.org/abs/2303.13511)[[hub]](https://github.com/ZHKKKe/NeuralPreset). :sweat_smile:使用颜色风格迁移实现滤镜，自监督训练策略，分离内容和颜色特征，建立颜色映射表，优化精度评估指标:sweat_smile:
+- __Neural Preset for Color Style Transfer.__ [[paper]](https://arxiv.org/abs/2303.13511)[[hub]](https://github.com/ZHKKKe/NeuralPreset). :sweat_smile:使用颜色风格迁移实现滤镜，自监督训练策略，归一化，解耦内容和颜色特征，建立颜色映射表，优化精度评估指标:sweat_smile:
 - paper2
 - paper3
 
