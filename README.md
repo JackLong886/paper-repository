@@ -17,7 +17,7 @@
 
 ## cloud removal
 - __Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images.__  [[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/).:cat:解决云去除后光谱失真的问题:cat:
-- paper2
+- __Structure-Informed Shadow Removal Networks.__[[paper]](https://arxiv.org/abs/2301.03182).:nerd_face:结构引导的阴影去除:nerd_face:	
 - paper3
 
 ## image mosaic
