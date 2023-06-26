@@ -1,5 +1,5 @@
 # bookmark
-:+1: This PR looks great - it's ready to merge! :shipit:
+:+1: This repository looks great - it's ready to merge! :shipit:
 ## image match
 - Image Matching across Wide Baselines: From Paper to Practice. [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark)
 - paper2
