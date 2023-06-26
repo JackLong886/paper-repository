@@ -1,8 +1,7 @@
 # paper repository
 :+1: This repository looks great - it's ready to merge! :shipit:
 ## image match
-1. __Image Matching across Wide Baselines: From Paper to Practice.__  [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark).
-   影像匹配大量消融实验，对比匹配方法、参数设置等。
+1. __Image Matching across Wide Baselines: From Paper to Practice.__  [[paper]](https://arxiv.org/abs/2003.01587) [[code]](https://github.com/vcg-uvic/image-matching-benchmark).消融实验，传统和学习方法、参数设置等。
 3. __Image Matching Challenge 2023.__  [[link]](https://www.kaggle.com/code/qi7axu/imc-2023-submission-example)
 4. paper3
 
